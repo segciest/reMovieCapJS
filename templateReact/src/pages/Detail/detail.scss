@@ -1,0 +1,28 @@
+.ant-btn-default {
+  border-color: none;
+  &:hover {
+    border-color: none;
+  }
+}
+.hinhAnh {
+  img {
+    width: 300px;
+    height: 300px;
+  }
+}
+@media (max-width: 1199px) {
+  .phim {
+  }
+}
+
+/* Điều chỉnh cho Medium Devices */
+@media (max-width: 991px) {
+}
+
+/* Điều chỉnh cho Small Devices */
+@media (max-width: 767px) {
+}
+
+/* Điều chỉnh cho Extra Small Devices */
+@media (max-width: 575px) {
+}

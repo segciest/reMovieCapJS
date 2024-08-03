@@ -1,0 +1,15 @@
+#bookingContent {
+  display: grid;
+  grid-template-columns: 60% 35%;
+  gap: 10px;
+}
+#bookingTable {
+  table {
+    width: 100%;
+  }
+}
+
+#bookingTableContent {
+  display: grid;
+  grid-template-columns: 90% 10%;
+}
